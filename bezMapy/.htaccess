@@ -1,0 +1,17 @@
+# ===== GPX Download Tracking =====
+# Reroute wszystkie .gpx do track.php
+# track.php liczy pobierania i wysyła plik
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    
+    # Reroute *.gpx do track.php
+   
+    RewriteRule ^trasy/(.+\.gpx)$ track.php [L]
+</IfModule>
+
+# ===== Headers dla GPX =====
+<FilesMatch "\.gpx$">
+    Header set Content-Type "application/gpx+xml"
+    Header set Content-Disposition "attachment"
+</FilesMatch>
