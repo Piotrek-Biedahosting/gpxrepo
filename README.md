@@ -6,7 +6,7 @@ Prosta, lekka aplikacja webowa do hostowania i wyświetlania tras GPX. Idealna d
 
 ---
 
-## 🚀 **HOSTED ON BIEDA HOSTING?**
+##  **URUCHOM NA BIEDAHOSTINGU**
 
 Chcesz mieć swoje repozytorium z **mapą interaktywną **?
 
@@ -19,7 +19,7 @@ Chcesz mieć swoje repozytorium z **mapą interaktywną **?
 **Zawiera:**
 - ✅ Pełna wersja ze zbiorczą mapą
 - ✅ Cache system
-- ✅ nstalcje potrzebnego kodu y
+- ✅ Instalacje potrzebnego kodu
 - ✅ SSL certyfikat
 - ✅ Backup automatyczne (7 dni)
 
@@ -31,7 +31,7 @@ Albo:
 
 ---
 
-## 📦 **SELF-HOSTED (GitHub - DARMOWY)**
+## 📦 **SELF-HOSTED **
 
 Wolisz hostować sam? Żaden problem!
 
