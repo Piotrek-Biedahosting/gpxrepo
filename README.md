@@ -352,8 +352,11 @@ Built with:
 ---
 
 ## 📸 Screenshots
-
+### tlo, avatar, podsumowanie tras
 ![tlo, avatar + podsumowanie tras](https://gpxrepo.deploy.net.pl/img/baner_gorny.png)
+
+### szczegoły tras
+![Route Details](https://gpxrepo.deploy.net.pl/img/szczegoly_tras.png)
 
 
 
