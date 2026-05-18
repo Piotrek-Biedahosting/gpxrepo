@@ -352,7 +352,7 @@ Built with:
 ---
 
 ## 📸 Screenshots
-### tlo, avatar, podsumowanie tras
+### tlo, avatar, baner reklamowy, podsumowanie tras
 ![tlo, avatar + podsumowanie tras](https://gpxrepo.deploy.net.pl/img/baner_gorny.png)
 
 ### szczegoły tras
