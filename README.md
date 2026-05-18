@@ -31,7 +31,7 @@ Albo:
 
 ---
 
-## 📦 **SELF-HOSTED **
+##  **SELF-HOSTED **
 
 Wolisz hostować sam? Żaden problem!
 
@@ -39,7 +39,7 @@ Wolisz hostować sam? Żaden problem!
 
 ---
 
-## ✨ Cechy
+##  Cechy
 
 - 📍 **Interaktywna mapa** - Leaflet + OpenStreetMap
 - 📊 **Profil wysokościowy** - Chart.js visualization
@@ -54,14 +54,14 @@ Wolisz hostować sam? Żaden problem!
 
 ---
 
-## 🚀 Szybki Start
+##  Szybki Start
 
 ### 1. **Setup**
 
 ```bash
 # Pobierz pliki
 https://github.com/Piotrek-Biedahosting/gpxrepo
-cd gpxrepository
+cd gpxrepo
 
 # Wrzuć na hosting via FTP/panel
 ```
@@ -72,7 +72,7 @@ cd gpxrepository
 
 ```
 public_html/
-├── Index.html                 # Główna aplikacja
+├── index.html                 # Główna aplikacja
 ├── get-routes.php             # API - lista tras
 ├── get-route-points.php       # API - punkty GPX
 ├── get-description.php        # API - opisy tras
@@ -80,17 +80,17 @@ public_html/
 ├── like-route.php             # API - system plusów
 ├── track.php                  # Server-side download tracker
 ├── .htaccess                  # URL rewrite rules
-├── trasy/                     # 📁 Folder z GPX files
+├── trasy/                     #  Folder z GPX files
 │   ├── trasa1.gpx
 │   ├── trasa1.txt             # Opis markdown (opcjonalny)
 │   └── trasa2.gpx
-├── avatar/                    # 📁 Avatar uzytkownika
+├── avatar/                    #  Avatar uzytkownika
 │   └── avatar.jpg
-├── header-bg/                 # 📁 Tło nagłówka
+├── header-bg/                 #  Tło nagłówka
 │   └── tlo.jpg
-├── reklamy/                   # 📁 Banery reklamowe
+├── reklamy/                   #  Banery reklamowe
 │   ├── banner.jpg
-│   └── banner-url.txt         # 📁 Link baneru
+│   └── banner-url.txt         #  Link baneru
 
 
 # POZA /public_html/ (dla bezpieczeństwa):
