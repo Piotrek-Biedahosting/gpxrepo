@@ -180,22 +180,6 @@ https://twoja-domena.com/?trasa=tatry_poludniowe
    "Trasę z nowego filmu: https://twoja-domena.com/?trasa=tatry"
    ```
 
-3. **Newsletter/Blog:**
-   ```
-   Przeczytaj szczegóły trasy tutaj!
-   https://twoja-domena.com/?trasa=beskidy-wschod
-   ```
-
-4. **WhatsApp/Telegram:**
-   ```
-   Wysyłaj bezpośredni link do trasy znajomym
-   ```
-
-5. **Forum/Reddit:**
-   ```
-   Rekomendując trasę innym: "Oto moja TOP trasa..."
-   https://twoja-domena.com/?trasa=najlepsze-widoki
-   ```
 
 #### Jak sprawdzić nazwę trasy w URL?
 
@@ -214,7 +198,7 @@ URL:  ?trasa=Tatry-Slowacja
 
 ---
 
-### 10. **Auto-refresh cache (Cron)**
+### 8. **Auto-refresh cache (Cron)**
 
 Aby cache się automatycznie aktualizował co X minut, dodaj **cron job**:
 
@@ -250,14 +234,16 @@ Dodaj linię:
 - ✅ Jeśli tak → regeneruje cache
 - ✅ Jeśli nie → nic nie robi (szybko!)
 - ✅ Sanityzuje nazwy plików
-- ✅ Czysty, efektywny system
+
 
 **Logi:**
 
-Jeśli chcesz widzieć co się dzieje:
+
 ```bash
 */5 * * * * /usr/bin/php /home/username/generate-cache.php >> /home/username/cache.log 2>&1
 ```
+
+### 9. **Baner reklamowy**
 
 Wrzuć baner w `/reklamy/`:
 
@@ -274,11 +260,11 @@ https://twoja-strona.com
 
 **Czym może być baner:**
 - 🔗 Link do Twojego YouTube'a
-- 💰 Affiliate link
+- 💰 Link afiliacyjny
 - ☕ Buy me a coffee
 - 💳 Patreon
 - 🛍️ Sklep merchandise
-- 📧 Newsletter signup
+
 
 Baner wyświetli się w nagłówku aplikacji z aktywnym linkiem!
 
