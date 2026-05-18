@@ -126,16 +126,6 @@ Stwórz plik tekstowy z opisem w Markdown:
 trasa-nazwa.txt
 ```
 
-Zawartość:
-```markdown
-# Nazwa Trasy
-
-Opis trasy w **Markdown**:
-- Punkt 1
-- Punkt 2
-- [Link](https://example.com)
-```
-
 ### 5. **Dodaj YouTube video**
 
 Stwórz `trasy-metadata.json` w `/public_html/`:
