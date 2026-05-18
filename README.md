@@ -353,12 +353,8 @@ Built with:
 
 ## 📸 Screenshots
 
-![Main view](https://gpxrepo.deploy.net.pl/)
+![tlo, avatar + podsumowanie tras](https://gpxrepo.deploy.net.pl/img/baner_gorny.png)
 
 
 
 ---
-
-Made with ❤️ for trail creators
-
-🏔️ Bieda Hosting - Hosting dla twórców tras 🚴‍♂️
