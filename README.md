@@ -9,12 +9,13 @@ Prosta, lekka aplikacja webowa do hostowania i wyświetlania tras GPX. Idealna d
 
 ##  **URUCHOM NA BIEDAHOSTINGU**
 
-Chcesz mieć swoje repozytorium z **mapą interaktywną **?
+Chcesz mieć swoje repozytorium ?
 
 ### 🔥 **Zamów na Bieda Hosting!**
 
-- 💾 **STARTER** - 25 zł/rok (250 MB na pliki) - Darmowa subdomena `twoja-nazwa.deploy.net.pl`
-- 💪 **PRO** - 100 zł/rok (1 GB na pliki) - Darmowa subdomena `twoja-nazwa.deploy.net.pl`
+-  **MINI** - 15 zł/rok (100 MB na pliki) - Darmowa subdomena `twoja-nazwa.deploy.net.pl`
+-  **STARTER** - 25 zł/rok (250 MB na pliki) - Darmowa subdomena `twoja-nazwa.deploy.net.pl`
+-  **PRO** - 100 zł/rok (1 GB na pliki) - Darmowa subdomena `twoja-nazwa.deploy.net.pl`
 
 
 **Zawiera:**
