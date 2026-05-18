@@ -1,0 +1,10 @@
+   avatar/
+   header-bg/
+   reklamy/
+   trasy/
+   .points-cache/
+   routes-cache.json
+   .downloads.json
+   .likes.json
+   .rate-limit.json
+   .gdrive-manifest.json
