@@ -13,7 +13,8 @@ Prosta, lekka aplikacja webowa do hostowania i wyświetlania tras GPX. Idealna d
 ### szczegoły tras
 ![Route Details](https://gpxrepo.deploy.net.pl/img/szczegoly_tras.png)
 
-
+### wizualizacja trasy
+![Wizualizacja trasy](https://gpxrepo.deploy.net.pl/img/wizualizacja_trasy.png)
 
 ##  **URUCHOM NA BIEDAHOSTINGU**
 
