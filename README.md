@@ -6,6 +6,14 @@ Prosta, lekka aplikacja webowa do hostowania i wyświetlania tras GPX. Idealna d
 **👉 [Zobacz demo](https://gpxrepo.deploy.net.pl) Bez zależności, bez bazy danych.**
 
 ---
+## 📸 Screenshots
+### tlo, avatar, baner reklamowy, podsumowanie tras
+![tlo, avatar + podsumowanie tras](https://gpxrepo.deploy.net.pl/img/baner_gorny.png)
+
+### szczegoły tras
+![Route Details](https://gpxrepo.deploy.net.pl/img/szczegoly_tras.png)
+
+
 
 ##  **URUCHOM NA BIEDAHOSTINGU**
 
@@ -351,12 +359,6 @@ Built with:
 
 ---
 
-## 📸 Screenshots
-### tlo, avatar, baner reklamowy, podsumowanie tras
-![tlo, avatar + podsumowanie tras](https://gpxrepo.deploy.net.pl/img/baner_gorny.png)
-
-### szczegoły tras
-![Route Details](https://gpxrepo.deploy.net.pl/img/szczegoly_tras.png)
 
 
 
